@@ -46,7 +46,7 @@
 			"
 		>
 			<router-link :to="{ name: 'home' }">
-				<div class="font-bold lg:text-xl md:text-lg text-md">Vitailse</div>
+				<div class="font-bold lg:text-xl md:text-lg text-md">mqtt-tester</div>
 			</router-link>
 			<div class="ml-auto flex items-center h-full">
 				<select
@@ -69,7 +69,7 @@
 					<icon:bx:bx-moon class="w-6 h-6" v-if="!isDark" />
 					<icon:bx:bxs-moon class="w-6 h-6" v-else />
 				</button>
-				<a href="https://github.com/zynth17/vitailse">
+				<a href="https://github.com/gabrieltorresgamez/mqtt-tester">
 					<icon-akar-icons:github-fill />
 				</a>
 			</div>

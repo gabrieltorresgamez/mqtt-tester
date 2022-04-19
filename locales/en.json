@@ -12,8 +12,8 @@
 		"new-content": "New content available, click on reload button to update."
 	},
 	"intro": {
-		"desc": "Welcome to Vitailse, Vite starter template with {tailwindurl}",
-		"github": "Please give stars and report any issues on our {githuburl}"
+		"desc": "Welcome bla bla",
+		"github": "Please follow us on github bla bla"
 	},
 	"button": {
 		"reload": "Reload",

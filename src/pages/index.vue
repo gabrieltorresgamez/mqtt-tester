@@ -1,8 +1,8 @@
 <script setup lang="ts">
 	import { useStore } from '@/store';
-	import VitailseLogo from '@/assets/logo.png';
+	import Logo from '@/assets/logo.png';
 	useHead({
-		title: 'Vitailse | Opinionated vite starter template',
+		title: 'mqtt-tester | a MQTT testing tool based on VueJS',
 	});
 
 	const store = useStore();
@@ -12,7 +12,7 @@
 <template>
 	<div class="grid place-items-center min-h-[80vh]">
 		<div>
-			<img :src="VitailseLogo" width="300" class="mx-auto" />
+			<img :src="Logo" width="300" class="mx-auto" />
 			<p class="lg:text-left text-center">
 				{{ t('intro.desc') }}
 				<a
@@ -25,7 +25,7 @@
 				{{ t('intro.github') }}
 				<a
 					class="text-blue-500 hover:underline"
-					href="https://github.com/zynth17/vitailse"
+					href="https://github.com/gabrieltorresgamez/mqtt-tester"
 					>Github Repo</a
 				>
 			</p>

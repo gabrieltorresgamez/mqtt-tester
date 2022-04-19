@@ -58,9 +58,9 @@ export default defineConfig({
 				'apple-touch-icon.png',
 			],
 			manifest: {
-				name: 'Vitailse',
-				short_name: 'Vitailse',
-				description: 'Opinionated vite template with TailwindCSS',
+				name: 'MQTT Testing Tool',
+				short_name: 'mqtt-tester',
+				description: 'Page for testing mqtt subscriptions',
 				theme_color: '#076AE0',
 				icons: [
 					{
