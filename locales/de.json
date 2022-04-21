@@ -1,22 +1,17 @@
 {
 	"pages": {
 		"home": "Startseite",
-		"other": {
-			"menu": "Andere Seite",
-			"desc": "Beschreibung einer anderen Seite"
-		},
 		"not-found": "Seite nicht gefunden"
 	},
-	"app": {
-		"offline": "App funktioniert auch offline",
-		"new-content": "Neuer Inhalt verfügbar, benutze den Reload Knopf um die Seite neu zu laden"
-	},
-	"intro": {
-		"desc": "Willkommen bla bla",
-		"github": "Bitte folgt uns auf github bla bla"
-	},
 	"button": {
-		"reload": "Neu laden",
-		"close": "Schliessen"
+		"subscribe": "Abbonieren",
+		"reset": "Zurücksetzen"
+	},
+	"form": {
+		"login": "Benutzername",
+		"password": "Passwort",
+		"topic": "Topic",
+		"url": "URL",
+		"mandatory": "Pflichtfeld!"
 	}
 }

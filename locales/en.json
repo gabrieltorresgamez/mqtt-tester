@@ -1,22 +1,17 @@
 {
 	"pages": {
 		"home": "Home",
-		"other": {
-			"menu": "Other Page",
-			"desc": "An example of other pages"
-		},
 		"not-found": "Page not found"
 	},
-	"app": {
-		"offline": "App ready to work offline",
-		"new-content": "New content available, click on reload button to update."
-	},
-	"intro": {
-		"desc": "Welcome bla bla",
-		"github": "Please follow us on github bla bla"
-	},
 	"button": {
-		"reload": "Reload",
-		"close": "Close"
+		"subscribe": "Subscribe",
+		"reset": "Reset"
+	},
+	"form": {
+		"login": "Username",
+		"password": "Password",
+		"topic": "Topic",
+		"url": "URL",
+		"mandatory": "Mandatory!"
 	}
 }
