@@ -8,6 +8,7 @@ declare module 'vue' {
     'Icon:bx:bxMoon': typeof import('~icons/bx/bx-moon')['default']
     'Icon:bx:bxsMoon': typeof import('~icons/bx/bxs-moon')['default']
     'IconAkarIcons:githubFill': typeof import('~icons/akar-icons/github-fill')['default']
+    MqttTest: typeof import('./src/components/MqttTest.vue')['default']
   }
 }
 
