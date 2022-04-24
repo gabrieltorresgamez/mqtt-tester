@@ -5,7 +5,7 @@ useHead({
 </script>
 
 <template>
-	<div class="grid place-items-center min-h-[80vh]">
+	<div class="grid place-items-center min-h-[81.67vh]">
 		<div>
 			<mqtt-test />
 		</div>

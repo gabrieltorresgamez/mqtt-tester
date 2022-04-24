@@ -13,5 +13,8 @@
 		"topic": "Topic",
 		"url": "URL",
 		"mandatory": "Pflichtfeld!"
+	},
+	"data": {
+		"subscribed": "Abonniert"
 	}
 }
