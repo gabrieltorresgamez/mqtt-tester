@@ -1,2 +1,2 @@
 # mqtt-tester
-a MQTT testing tool based on VueJS
+a MQTT testing tool based on VueJS.
